@@ -1,12 +1,13 @@
 package org.fenixsoft.jvm.chapter2;
 
+import java.lang.reflect.Method;
+
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;
 import net.sf.cglib.proxy.MethodProxy;
 
-import java.lang.reflect.Method;
-
 /**
+ * Code List 2-9
  * VM Args： -XX:PermSize=10M -XX:MaxPermSize=10M
  *
  * @author zzm

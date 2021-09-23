@@ -1,6 +1,7 @@
 package org.fenixsoft.jvm.chapter2;
 
 /**
+ * Code List 2-6
  * VM Args：-Xss2M （这时候不妨设大些，请在32位系统下运行）
  *
  * @author zzm

@@ -10,3 +10,13 @@ public class RuntimeConstantPoolOOM_2 {
         System.out.println(str2.intern() == str2);
     }
 }
+/*
+ * output(java 6)
+ * false
+ * false
+ * 存储于永久代常量池
+ * (java 7)
+ * true
+ * false
+ * 存储于Java堆
+ */

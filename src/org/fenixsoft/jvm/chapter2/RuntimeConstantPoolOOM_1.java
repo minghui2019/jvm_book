@@ -4,7 +4,9 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
+ * Code List 2-7
  * VM Args：-XX:PermSize=6M -XX:MaxPermSize=6M
+ * VM Args(java 8)：-Xmx6MB
  *
  * @author zzm
  */

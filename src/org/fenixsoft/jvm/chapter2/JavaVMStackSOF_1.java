@@ -1,7 +1,10 @@
 package org.fenixsoft.jvm.chapter2;
 
 /**
+ * Code List 2-4
  * VM Args：-Xss128k
+ * Windows10 Java-se12
+ * The Java thread stack size specified is too small. Specify at least 180k
  *
  * @author zzm
  */
